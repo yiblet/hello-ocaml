@@ -20,10 +20,12 @@
     "@opam/dune": "*",
     "@opam/lambda-term": "*",
     "@opam/lwt": "^4.0.0",
+    "@opam/lwt_ppx": "*",
     "ocaml": "~4.8.0"
   },
   "devDependencies": {
     "ocaml": "~4.8.0",
+    "@opam/merlin": "*",
     "@opam/ocaml-lsp-server": "*"
   },
   "resolutions": {
